@@ -1,8 +1,8 @@
-### 23-02-2019
-Include the date you created this project and README file.
+### Date
+23-02-2019
 
-### Bikeshare
-Replace the Project Title
+### Description
+Bikeshare-data
 
 ### Statistical comparison with python
 Describe what your project is about and what it does
