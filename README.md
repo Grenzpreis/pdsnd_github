@@ -1,11 +1,11 @@
 ### Date
 23-02-2019
 
-### Description
+### Titel
 Bikeshare-data
 
-### Statistical comparison with python
-Describe what your project is about and what it does
+### Description
+Statistical comparison with python
 
 ### Files used
 Include the files used
