@@ -1,15 +1,15 @@
 ### Date
-23-02-2019
+25-02-2019
 
-### Titel
+### Title
 Bikeshare-data
 
 ### Description
 Statistical comparison with python
 
 ### Files used
-Include the files used
+biskeshare.py
+CSV-Files from Chicago, New York City and Washington
 
-### Me
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+### Credentials
+Most of the Code was done by Udacity. Added a bunch of inputs and statistical comparisons.
